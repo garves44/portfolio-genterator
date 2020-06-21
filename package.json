@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-genterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garves44/portfolio-genterator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garves44/portfolio-genterator/issues"
+  },
+  "homepage": "https://github.com/garves44/portfolio-genterator#readme",
+  "dependencies": {
+    "inquirer": "^7.2.0"
+  }
+}
